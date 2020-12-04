@@ -5,3 +5,4 @@ end
 
 def uses_collect(sentence)
   sentence.collect
+end
